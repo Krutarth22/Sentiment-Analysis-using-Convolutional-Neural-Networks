@@ -1,7 +1,7 @@
 import tensorflow as tf
 import numpy as np
 
-class TextCNN(object):
+class Word_Embedding(object):
     """
     Here we will see an embedding layer, which is followed by a convolutional layer.
     The convolutional layer will be followed by max pooling and finally softmax layer.
